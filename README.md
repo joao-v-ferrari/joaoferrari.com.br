@@ -1,2 +1,3 @@
 # joaoferrari.com.br
-%Entre, fique à vontade, passe um café%
+Bem-vindo(a,e)
+Entre, fique à vontade, passe um café
